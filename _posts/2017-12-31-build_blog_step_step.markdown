@@ -9,7 +9,7 @@ categories: tutorial
 
 之前用过几个jekyll主题，都是精挑细选的。其实还挺喜欢[Daktilo](https://github.com/kronik3r/daktilo)，既然喜欢，为什么要放弃?我也忘记了，大概看久了也会疲劳。
 
-现在这个主题，是用jekyll 默认德主题。安装jekyll后,直接执行
+现在这个主题，是jekyll默认主题。安装jekyll后,直接执行
 
 ```
 jekyll new blog
