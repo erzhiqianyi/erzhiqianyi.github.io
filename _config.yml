@@ -9,10 +9,11 @@
 title: 二之前一的博客
 email: blog@caofeng.me
 description: > # this means to ignore newlines until "baseurl:"
-    二之前一的博客
+    二之前一的博客，思考，写作，编程，技术
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.caofeng.me" # the base hostname & protocol for your site
 github_username:  erzhiqianyi
+twitter_username: erzhiqianyi
 
 # Build settings
 markdown: kramdown
