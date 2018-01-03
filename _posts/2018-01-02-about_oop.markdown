@@ -2,7 +2,7 @@
 layout: post
 title:  "关于面向对象编程(OOP)的思考"
 date:   2018-01-02 20:34:11 +0800
-categories: travel
+categories: program
 ---
 
 其实程序员是最不缺对象的，没对象了，new 一个不就有了，想要多少就有多少。不过前提是得面向对象编程，比如用Java。
