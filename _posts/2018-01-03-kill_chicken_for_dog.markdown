@@ -2,7 +2,7 @@
 layout: post
 title:  " 杀鸡敬狗"
 date:   2018-01-03 11:15:11 +0800
-categories: travel
+categories: think
 ---
 
 ## 杀鸡敬狗
