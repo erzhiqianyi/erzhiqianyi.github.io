@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "感情丰富的代码"
-date:   2018-02-26 19:43:11 +0800
+title: "感情丰富的代码"
+date: 2018-02-26 19:43:11 +0800
 categories: program
 ---
 
@@ -12,15 +12,11 @@ public static String doSomeThing(Something someThing){
        //do somehing 
        return "没做成功!";
    }
-
    if(condition1!){
         return "这样不会成功！";
    }
-
     return message;
 }
-
-
 public static void main(String[] args){
     String message = doSomeThing(new Something());
     if(message == "做成功了!"){
