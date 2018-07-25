@@ -5,25 +5,36 @@ date: 2018-07-23 20:19:11 +0800
 categories:  技术
 ---
 ## grep是什么
+
 >grep 是linux下一个强大文本搜索命令。全称为global regular exppression print(全局正则表达式输出)
+
 ## 为什么用grep
+
 文本搜索，简单强大。
+
 ## 基本语法
+
 ```
 grep [OPTIONS] PATTERN [FILE]
 ```
+
 ### OPTIONS 
 操作
+
 ### PATTERN 
 表达式
+
 ### FILE
 文件
 
 ## 实列
+
 ### 匹配日期
+
 ``` 
 grep -a "2018-07-25 07:49" xx.log
 ```
+
 ### 从后往前匹配
 ```
 tac xx.log | grep -a -i  "error"
