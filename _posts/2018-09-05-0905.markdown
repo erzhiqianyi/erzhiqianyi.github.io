@@ -1,0 +1,23 @@
+---
+layout: post
+title: 2018-09-05
+date: 2018-09-04 20:43:11 +0800
+categories:  生活
+---
+
+
+2018年9月5日，星期三，晴。
+
+```
+清晨，
+一只鸟落到窗前,
+飞进玻璃里的蓝天，
+和他自己，
+一起消失在天边。
+```
+
+
+## 今日阅读
+今天看了一篇写日志的文章,[The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)，其实还没看完，文章比较长，看的又是英文版，需要花些时间消化。
+
+
